@@ -53,8 +53,10 @@
 
 🤔 Still working on it...
 
-![MastarCheeze's GitHub stats](https://github-readme-stats.vercel.app/api?username=mastarcheeze&show_icons=true&theme=highcontrast&include_all_commits=true&hide_title=true&rank_icon=github)&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastarcheeze&layout=compact&show_icons=true&theme=highcontrast)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mastarcheeze&show_icons=true&theme=highcontrast&hide_title=true&rank_icon=github" alt="MastarCheeze's GitHub stats"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastarcheeze&layout=compact&show_icons=true&theme=highcontrast" alt="MastarCheeze's Top Languages"></img>
+</div>
 
 ---
 
