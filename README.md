@@ -54,7 +54,7 @@
 🤔 Still working on it...
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mastarcheeze&show_icons=true&theme=highcontrast&hide_title=true&rank_icon=github" alt="MastarCheeze's GitHub stats"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=mastarcheeze&show_icons=true&theme=highcontrast&hide_title=true&rank_icon=github" alt="MastarCheeze's GitHub stats"></img>&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastarcheeze&layout=compact&show_icons=true&theme=highcontrast" alt="MastarCheeze's Top Languages"></img>
 </div>
 
