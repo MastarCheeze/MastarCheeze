@@ -2,14 +2,14 @@
 
 > Congrats, you've found my GitHub profile among the billions of web pages on the Internet!
 
-🧀 I'm ZH, a college student that loves to code as a hobby.\
+🧀 I'm ZH, a college student who loves coding as a hobby.\
 🔥 I'm passionate about building random projects and exploring new technologies.\
 👨‍💻 My go-to languages are TypeScript and Python.\
-🎮 When I'm not coding, I'm learning computer science and maths for fun, and playing videogames.
+🎮 When not coding, I'm learning computer science and maths and playing video games for fun.
 
 ## 🚀 Projects that I've Built
 
-📦 Here are some random projects, both big and small, that I've built over the years.
+📦 Here are some random projects, big and small, that I've built over the years.
 
 - [A program that plays Scrabble](https://github.com/MastarCheeze/scrabble-solver)
 - [A static site generator for my notes](https://github.com/MastarCheeze/notes)
@@ -42,13 +42,6 @@
 [![Haxe](https://img.shields.io/badge/Haxe-EA8220?style=for-the-badge&logo=haxe&logoColor=white)](#)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](#)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](#)
-
-## ⏳ What I'm Cooking
-
-🔍 Right now, I'm...
-
-- Building a API to find CAIE past year papers by paper code
-- Learning Google Cloud Platform
 
 ## 📈 Stats
 
