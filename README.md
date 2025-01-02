@@ -1,15 +1,13 @@
 # Hellooooo! 👋
 
-> Congrats, you've found my GitHub profile among the billions of web pages on the Internet!
-
 🧀 I'm ZH, a college student who loves coding as a hobby.\
 🔥 I'm passionate about building random projects and exploring new technologies.\
 👨‍💻 My go-to languages are TypeScript and Python.\
 🎮 When not coding, I'm learning computer science and maths and playing video games for fun.
 
-## 🚀 Projects that I've Built
+## 🚀 Projects
 
-📦 Here are some random projects, big and small, that I've built over the years.
+📦 Here are some random projects that I've built
 
 - [A program that plays Scrabble](https://github.com/MastarCheeze/scrabble-solver)
 - [A static site generator for my notes](https://github.com/MastarCheeze/notes)
@@ -19,9 +17,9 @@
 - ["Push Box" - a puzzle game](https://github.com/MastarCheeze/PushBox)
 - ["There Is No Game" - a platformer game](https://mastarcheeze.itch.io/there-is-no-game)
 
-## 🛠️ My Tech Stack
+## 🛠️ Languages and Tools
 
-💻 These are the languages and tools I currently use and have used in previous projects.
+💻 Here are some languages and tools that I've worked with
 
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
@@ -47,13 +45,7 @@
 
 ## 📈 Stats
 
-🤔 Still working on it...
-
 <div align="center">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mastarcheeze&show_icons=true&theme=highcontrast&hide_title=true&rank_icon=github" alt="MastarCheeze's GitHub stats"></img></a>&nbsp;&nbsp;
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastarcheeze&layout=compact&show_icons=true&theme=highcontrast" alt="MastarCheeze's Top Languages"></img>
 </div></a>
-
----
-
-Feel free to contact me via [email](mailto:mon10180218@gmail.com). Cheers! ✌️
