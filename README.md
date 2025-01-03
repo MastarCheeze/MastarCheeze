@@ -11,6 +11,7 @@
 
 - [A program that plays Scrabble](https://github.com/MastarCheeze/scrabble-solver)
 - [A static site generator for my notes](https://github.com/MastarCheeze/notes)
+- [An exam paper finder for CAIE papers](https://github.com/MastarCheeze/pyp-finder)
 - [A Chrome extension that redirects links to Rickrolls](https://github.com/MastarCheeze/link-is-rickroll)
 - [Some mods for Cookie Clicker](https://github.com/MastarCheeze/cookie-clicker-mods)
 - [A small Tic-Tac-Toe game](https://github.com/MastarCheeze/tictactoe)
@@ -38,6 +39,7 @@
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](#)
 [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](#)
 [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](#)
 [![Haxe](https://img.shields.io/badge/Haxe-EA8220?style=for-the-badge&logo=haxe&logoColor=white)](#)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](#)
