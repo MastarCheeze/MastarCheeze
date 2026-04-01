@@ -37,6 +37,6 @@
 ## 📈 Stats
 
 <div align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mastarcheeze&show_icons=true&theme=highcontrast&hide_title=true&hide_rank=true" alt="MastarCheeze's GitHub stats"></img></a>&nbsp;&nbsp;
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastarcheeze&layout=compact&show_icons=true&theme=highcontrast" alt="MastarCheeze's Top Languages"></img>
+<a href="#"><img src="./profile/stats.svg" alt="MastarCheeze's GitHub stats"></img></a>&nbsp;&nbsp;
+<a href="#"><img src="./profile/top-langs.svg" alt="MastarCheeze's Top Languages"></img>
 </div></a>
